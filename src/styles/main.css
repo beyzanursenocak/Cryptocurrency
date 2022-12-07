@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(230, 220, 208);
+  color: rgb(92, 116, 54);
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  font-family: "Verdana, Geneva, Tahoma", sans-serif;
+  font-weight: bold;
+  padding: 30px;
+}
+h2,
+span {
+  font-family: "Verdana, Geneva, Tahoma", sans-serif;
+  font-weight: bold;
+  padding: 50px;
+}
+h3,
+h4,
+h5 {
+  font-family: "Verdana, Geneva, Tahoma", sans-serif;
+  font-weight: 400;
+}
+h6 {
+  font-family: "Verdana, Geneva, Tahoma", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(194, 192, 111);
+}
+input {
+  font-family: "Verdana, Geneva, Tahoma", sans-serif;
+}
+.table {
+  color: rgb(92, 104, 73);
+
+}
+.table th {
+  border-top: 2px solid rgb(92, 104, 73);
+  border-bottom: 2px solid rgb(92, 104, 73);
+
+}
+.table tr {
+  border-bottom: 2px solid rgb(92, 104, 73);
+}
+#container{
+  background-color: rgba(0, 0, 0, 0.05);
+  position: absolute; 
+  bottom: 0; 
+  width: 100%; 
+  margin: 0 auto;
+}
